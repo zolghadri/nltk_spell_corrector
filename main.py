@@ -9,7 +9,7 @@ import string
 #     'p', 'w', 'q', 'u', 'v', 's', 't', 'r', 'x', 'y', 'z'
 # ]
 
-# instead of ablow list
+# instead of above list
 alphabet = list(string.ascii_lowercase)
 
 # make sure all characters are there
